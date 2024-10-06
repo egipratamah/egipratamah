@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @egipratamah
 - 👀 I’m interested in coding and data analysis
-- 🌱 I’m currently learning SQL and Tableau
-- 💞️ I’m looking to collaborate on some project that contains Data Analysis and Engineering
+- 🌱 I’m currently learning Python, Java, SQL and Tableau
+- 💞️ I’m looking to collaborate on some project that contains Data Analysis, AI and Engineering
 - 📫 How to reach me via Instagram (@egipratamah)
 
 <!---
